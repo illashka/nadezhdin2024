@@ -1,2 +1,3 @@
-# nadezhdin2024
-Number of signatures per candidate on his site
+# Nadezhdin signatures counter
+You can open dev console on Nadezhdin  site
+And write code there
